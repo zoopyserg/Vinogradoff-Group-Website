@@ -1,0 +1,19 @@
+.social-link {
+  height: 4rem;
+  width: 4rem;
+  line-height: 4.3rem;
+  font-size: 1.5rem;
+  background-color: #1d809f;
+  transition: background-color .15s ease-in-out;
+  box-shadow: 0 3px 3px 0 rgba(0,0,0,.1);
+  text-decoration: none;
+  /*border-radius: 50% !important;*/
+}
+
+.icon-social-youtube {
+}
+
+.portfolio-link {
+  color: white;
+}
+
