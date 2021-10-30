@@ -1,2 +1,1 @@
-# Vinogradoff Group Website
- Website for Vinogradoff Group
+vganalytics.live
