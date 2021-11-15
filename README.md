@@ -1,1 +1,1 @@
-http://vganalytics.live
+https://vganalytics.live
